@@ -1,0 +1,8 @@
+[controllers]
+controller ansible_connection=local
+
+[nodes]
+node01
+node02
+node03
+node04
